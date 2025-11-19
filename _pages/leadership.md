@@ -9,7 +9,7 @@ permalink: /leadership/
 - Raised 5 Lakhs+ through fundraising events supporting local service activities.
 - Led a 30-member creative team that produced engaging content and brand campaigns.
 
-![Rotaract President](assets/images/Rotaract.JPG)
+![rotaract.png](/assets/images/rotaract.png)
 
 ## Founding Member at Agasthya Entrepreneurship Cell
 
