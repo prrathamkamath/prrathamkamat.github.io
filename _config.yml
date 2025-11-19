@@ -38,15 +38,16 @@ minimal_mistakes_skin: "default"
 author:
   name: "Prratham Kamat"
   avatar: "/assets/images/prrathamkamat.png"
-  bio: "Shaped by a business family where conversations revolved around markets, margins, and momentum. That environment led me to spot early signs of growth and understand what makes a business commercially meaningful. Over time, I have carved out a niche at the intersection of brand building, growth marketing, and business fundamentals, the place where storytelling meets strategy and where positioning directly impacts business performance. I want to build a career helping startups grow through sharp messaging, scalable go-to-market systems, and a deep understanding of how markets behave."
+  bio: "Growth Marketing and Brand Strategist with 2 years of experience across consulting and freelancing, operating at the intersection of business and marketing. Strong communicator with strengths in market analysis, strategic positioning, and building scalable content and growth systems."
   location: "India"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/prrathamkamat/"
-    - label: "X"
-      icon: "fas fa-X"
-      url: "https://x.com/prrathamkamath"
+    - label: "Instagram"
+      icon: "fas fa-instagram"
+      url: "https://www.instagram.com/prrathamkamat/"
+
     # Add more links (Twitter, Google Scholar, etc.) as desired
 
 # -------------------------------------------------------
