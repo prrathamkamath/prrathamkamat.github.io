@@ -1,8 +1,8 @@
 ---
-title: "Join me"
-permalink: /join/
+title: "Work"
+permalink: /work/
 ---
 
-## Join me
+## Work with me
 
 Do reach out to me if you are building something cool. 

@@ -6,9 +6,6 @@ main:
 
   - title: "Blogs"
     url: /blogs/
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Video"
     url: /Video/
@@ -16,8 +13,8 @@ main:
   - title: "Leadership"
     url: /leadership/
 
-  - title: "Join"
-    url: /join/
+  - title: "Work"
+    url: /work/
 
   # - title: "Teaching"
   #   url: /teaching/
