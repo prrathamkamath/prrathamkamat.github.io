@@ -15,7 +15,7 @@ permalink: /leadership/
 
 - Founded and chartered the Entrepreneurship Cell at the economics department of Christ University (Central Campus) to introduce entrepreneurship as a mindset and not just as a profession, especially within the Social Sciences department where most students traditionally pursued civil services.
 - Scaled the E-Cell into a 50-member active community, building its structure, recruiting core teams, and designing programs that encouraged student-led ventures, idea validation, and early experimentation.
-- Organized high-impact guest sessions featuring Dr. Saji Varghese (Founder of Sunbird Straws) and inviting guests like Nithin Kamath, giving students direct exposure to founders who built from first principles and challenged conventional career path
+- Organized high-impact guest sessions featuring Dr. Saji Varghese (Founder of Sunbird Straws) and interacting with guests like Nithin Kamath, giving students direct exposure to founders who built from first principles and challenged conventional career path
 
 ![nithin.png](/assets/images/nithin.png)
 
